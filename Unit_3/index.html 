@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
+<link rel="style" type="text/css" href="style.css"> </link> 
 <head>
-<link rel="style" type="text/css" href="CSS/style.css">
 </head>
 	<title>Aviva Loeb</title>
 	<h1>Aviva Loeb</h1> 
-	<h2>>Visual Journalist</h2>
-	<img src="Images/aviva.jpg"> alt="Aviva" height="300" Width="700" </img>
+	<h2>Visual Journalist</h2>
+	<img src="Images/aviva.jpg" alt=Aviva> </img>
 	</head>
 <body>
 	<p>I was 15 when I started working for my first publication, "Oread", the Burlington High School yearbook. I guess you could say that that was the first time I fell in love. Watching our book come together, after weeks of planning was more rewarding for me than anything I had ever done before. It was then that I wanted to pursue a career in journalism. </p> 
