@@ -1,8 +1,9 @@
 
 h1 {
 	color: #ff0060; 
-	font-size: 40 px;
-	font-family: 'Modak', cursive; }
+	font-size: 200 px;
+	font-family: <link href="https://fonts.googleapis.com/css?family=Modak" rel="stylesheet">
+ }
 
 body {
 	color: #ff0060
