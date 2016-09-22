@@ -3,11 +3,13 @@ h1 {
 	color: #ff0060; 
 	font-size: 100px;
 	text-align: center;
-	font-family: Arial;
+	font-family: 'Baloo Bhaina';
  }
 
 body {
 	color: #ff0060
+	text-align: center;
 }
 
-h2 {font-style: italic;} 
+h2 {font-style: italic;
+text-align: center;} 
