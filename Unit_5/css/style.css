@@ -36,17 +36,15 @@ width; 100%
  	font-style: sans-serif;
  }
 
- #twitter {
- 	float:right;
- 	Margin: 30px;
- }
+ p {font-size: 20px
+ 	font-style: sans-serif; }
+
 
  aside {float:right;
  	Margin: 30px;
  }
 
 
- }
 
 footer { background-color: #FF957E
 border: 1px black solid; 
