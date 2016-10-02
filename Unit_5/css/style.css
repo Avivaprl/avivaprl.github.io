@@ -33,8 +33,15 @@ width; 100%
  }
 
  #twitter {
- 	float:left;
+ 	float:right;
  	Margin: 30px;
+ }
+
+ aside {float:right;
+ 	Margin: 30px;
+ }
+
+
  }
 
 footer { background-color: #FF957E
