@@ -32,6 +32,10 @@ width; 100%
  	display:inline-block;
  }
 
+ section {float:right
+ 	font-style: sans-serif;
+ }
+
  #twitter {
  	float:right;
  	Margin: 30px;
