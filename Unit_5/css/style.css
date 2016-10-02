@@ -25,7 +25,8 @@ padding: 20px;}
 
 nav { background-color: #E8C66A;
 border: 1px black solid;
-padding: 20px;  }
+padding: 20px;
+float:left;  }
 
 footer { background-color: #FF957E
 border: 1px black solid; 
