@@ -48,4 +48,5 @@ width; 100%
 
 footer { background-color: #FF957E
 border: 1px black solid; 
-padding: 20px;}
+padding: 20px;
+float: none;}
